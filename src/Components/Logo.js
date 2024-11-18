@@ -5,7 +5,12 @@ export default function Logo() {
 
 return (<div className="flex-1 flex justify-end">
 <Link href="/">
-<Image src="/Media/Images/Logo_Image.png"  width={70} height={70} alt="Logo"  className="mr-7"/>
+
+
+<Image src="/Media/Images/Logos/Logo_Image.png"  width={70} height={70} alt="Logo"  className="mr-7"/>
+
+
+
 </Link>
 
 
