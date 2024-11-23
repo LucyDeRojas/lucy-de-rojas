@@ -18,17 +18,21 @@ return (<Layout>
 
 <main className="px-14">
 
-<p>I’m lucky to heave over 10 years in digital design, crafting engaging, user-focused visuals across email, web, social media and online ads. Known for my strategic, accessible approach, I love to create designs that captivate and drive meaningful engagement.</p>
+<p>
+
+
+I’m a passionate web designer dedicated to crafting beautiful, functional, and user-centered digital experiences. With expertise in responsive design, accessible interfaces, and innovative problem-solving, I transform ideas into engaging online solutions that meet user needs and business goals.
+<br />
+<br />
+From concept to completion, my work is driven by creativity, collaboration, and a commitment to excellence. Dive in to explore my projects and see how I bring visions to life on the web!
 
 
 
-<Image
-src='/Media/Images/Portfolio/UI Design/Beauty by Chanelle.png'
-width={500}
-height={500}
-layout='responsive'
-alt='image of Figma high fidelity prototyping for project with Chanelle Beauty'
-/>
+
+
+        </p>
+
+
 
 
 </main>

@@ -96,43 +96,12 @@ h1 {
 
 
 
-#pencil {
-        /* transition: all 750ms; */
-        /* transform-origin: center; */
-
-        /* transform-origin: 40% 55%; */
-}
-
-
-#ruler {
-        /* transition: all 750ms;
-        /* transform-origin: center; */
-        /* transform-origin: 40% 45%; */
-
-}
-
-
-#circles {
-        /* opacity: 0; */
-        /* transition: all 750ms; */
-
-}
-
-
-
 
 
 #red {
         transform: rotate(-15deg);
         transform-origin: center;
 }
-
-#whiteLine  {
-        /* transition: all 1000ms; */
-        /* transform-origin: center; */
-        /* transform: rotate(90deg); */
-}
-
 
 
 
@@ -141,7 +110,8 @@ h1 {
 
 
 #menu {
-        transition: all 1000ms;
+        background-color: red;
+        /* transition: all 1000ms; */
 }
 
 

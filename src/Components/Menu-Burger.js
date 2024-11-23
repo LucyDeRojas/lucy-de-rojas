@@ -29,7 +29,15 @@ export default function MenuBurger () {
                 ruler.style.transform = "rotate(45deg)";
                 pencil.style.transform = "rotate(-45deg)";
                 whiteLine.style.transform = "rotate(0deg)";
-                menu.style.left = "0";
+
+
+		anime({
+			targets: "#menu",
+			left:0,
+			easing: "spring(1,80,10,0)",
+			duration: 3000,
+		});
+                // menu.style.left = "0";
         }
         else {
                 setOpen(!open);
@@ -37,7 +45,16 @@ export default function MenuBurger () {
                 ruler.style.transform = "rotate(0deg)";
                 pencil.style.transform = "rotate(0deg)";
                 whiteLine.style.transform = "rotate(90deg)";
-                menu.style.left = "-100%";
+
+
+
+		anime({
+			targets: "#menu",
+			left: "-100%",
+			easing: "spring(1,80,10,0)",
+			duration: 3000,
+		});
+                // menu.style.left = "-100%";
         }
 
 
@@ -55,7 +72,7 @@ export default function MenuBurger () {
 
 return (<button onClick={handleClick}>
 
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg"  x="0px" y="0px" width="135px" height="135px" viewBox="0 0 100 100" enable-background="new 0 0 100 100">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg"  x="0px" y="0px" width="135px" height="135px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" >
 
 
 
