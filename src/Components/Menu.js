@@ -1,9 +1,12 @@
-import Link from "next/link"
+import Link from "next/link";
+import anime from "animejs";
 
 
 
 
 export default function Menu () {
+
+
 
 return (<div className="flex flex-col items-center w-full bg-white text-slate-800 font-bold absolute left-[-100%] top-[130px]" id="menu">
 

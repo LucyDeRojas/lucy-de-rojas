@@ -34,17 +34,110 @@ From concept to completion, my work is driven by creativity, collaboration, and 
 
 
 
-                <Image
-                        src="/Media/Images/Portfolio/UI Design/Beauty-by-Chanelle.jpg"
+<Image
+                        src="/Media/Images/Portfolio/UI Design/Water-FULLscreen3.jpg"
                         width={500}
                         height={500}
+                        alt=""
                         layout="responsive"
-                        alt="image of prototyping Chanelle Website"
                         className={imageMarginY}
+                         />
 
+
+
+                       <Image
+                       src="/Media/Images/Portfolio/UI Design/Water-FULLscreen2.jpg"
+                       width={500}
+                       height={500}
+                       alt=""
+                       layout="responsive"
+                       className={imageMarginY}
                         />
 
-              <Image
+
+
+<Image
+                     src="/Media/Images/Portfolio/UI Design/Water-desktop-and-mobile-homepage.jpg"
+                     width={500}
+                     height={500}
+                     alt=""
+                     layout="responsive"
+                     className={imageMarginY}
+                      />
+
+<Image
+                          src="/Media/Images/Portfolio/UI Design/Water-Mobile-screens.jpg"
+                          width={500}
+                          height={500}
+                          alt=""
+                          layout="responsive"
+                          className={imageMarginY}
+                           />
+
+
+
+
+                         <Image
+                         src="/Media/Images/Portfolio/UI Design/Water-FULLscreen4.jpg"
+                         width={500}
+                         height={500}
+                         alt=""
+                         layout="responsive"
+                         className={imageMarginY}
+                          />
+
+<Image
+                      src="/Media/Images/Portfolio/UI Design/Water-FULLscreen1.jpg"
+                      width={500}
+                      height={500}
+                      alt=""
+                      layout="responsive"
+                      className={imageMarginY}
+                       />
+
+
+
+
+<Image
+                   src="/Media/Images/Portfolio/UI Design/Laceys-Desktop-home-page.jpg"
+                   width={500}
+                   height={500}
+                   alt=""
+                   layout="responsive"
+                   className={imageMarginY}
+                    />
+
+
+
+<Image
+                           src="/Media/Images/Portfolio/UI Design/Laceys-Mobile-Screens.jpg"
+                           width={500}
+                           height={500}
+                           alt=""
+                           layout="responsive"
+                           className={imageMarginY}
+                            />
+
+
+
+<Image
+                     src="/Media/Images/Portfolio/UI Design/Laceys-Entire-Screen.jpg"
+                     width={500}
+                     height={500}
+                     alt=""
+                     layout="responsive"
+                     className={imageMarginY}
+                      />
+
+
+
+
+
+
+
+
+
+<Image
               src="/Media/Images/Portfolio/UI Design/ChanelleScreenShot.jpg"
               width={500}
               height={500}
@@ -52,6 +145,64 @@ From concept to completion, my work is driven by creativity, collaboration, and 
               layout="responsive"
               className={imageMarginY}
                />
+
+
+
+
+
+
+
+<Image
+                 src="/Media/Images/Portfolio/UI Design/Naphill-Desktop-Home-page.jpg"
+                 width={500}
+                 height={500}
+                 alt=""
+                 layout="responsive"
+                 className={imageMarginY}
+                  />
+
+
+<Image
+                            src="/Media/Images/Portfolio/UI Design/Naphill Tennis Club Mobiel Screens.jpg"
+                            width={500}
+                            height={500}
+                            alt=""
+                            layout="responsive"
+                            className={imageMarginY}
+                             />
+
+
+                <Image
+                src="/Media/Images/Portfolio/UI Design/Naphill-Desktop-contact-us.jpg"
+                width={500}
+                height={500}
+                alt=""
+                layout="responsive"
+                className={imageMarginY}
+                 />
+
+
+                    <Image
+                    src="/Media/Images/Portfolio/UI Design/Naphill-Tennis-Club.jpg"
+                    width={500}
+                    height={500}
+                    alt=""
+                    layout="responsive"
+                    className={imageMarginY}
+                     />
+
+
+
+
+
+<Image
+                src="/Media/Images/Portfolio/UI Design/CSSC2.jpg"
+                width={500}
+                height={500}
+                alt=""
+                layout="responsive"
+                className={imageMarginY}
+                 />
 
 
 <div className="w-1/3">
@@ -66,15 +217,6 @@ From concept to completion, my work is driven by creativity, collaboration, and 
                </div>
 
 
-                <Image
-                src="/Media/Images/Portfolio/UI Design/CSSC2.jpg"
-                width={500}
-                height={500}
-                alt=""
-                layout="responsive"
-                className={imageMarginY}
-                 />
-
 
 
                  <Image
@@ -87,141 +229,6 @@ From concept to completion, my work is driven by creativity, collaboration, and 
                   />
 
 
-
-
-                   <Image
-                   src="/Media/Images/Portfolio/UI Design/Laceys-Desktop-home-page.jpg"
-                   width={500}
-                   height={500}
-                   alt=""
-                   layout="responsive"
-                   className={imageMarginY}
-                    />
-
-
-
-
-
-                     <Image
-                     src="/Media/Images/Portfolio/UI Design/Laceys-Entire-Screen.jpg"
-                     width={500}
-                     height={500}
-                     alt=""
-                     layout="responsive"
-                     className={imageMarginY}
-                      />
-
-
-                <Image
-                src="/Media/Images/Portfolio/UI Design/Naphill-Desktop-contact-us.jpg"
-                width={500}
-                height={500}
-                alt=""
-                layout="responsive"
-                className={imageMarginY}
-                 />
-
-
-                 <Image
-                 src="/Media/Images/Portfolio/UI Design/Naphill-Desktop-Home-page.jpg"
-                 width={500}
-                 height={500}
-                 alt=""
-                 layout="responsive"
-                 className={imageMarginY}
-                  />
-
-
-
-                    <Image
-                    src="/Media/Images/Portfolio/UI Design/Naphill-Tennis-Club.jpg"
-                    width={500}
-                    height={500}
-                    alt=""
-                    layout="responsive"
-                    className={imageMarginY}
-                     />
-
-
-                     <Image
-                     src="/Media/Images/Portfolio/UI Design/Water-desktop-and-mobile-homepage.jpg"
-                     width={500}
-                     height={500}
-                     alt=""
-                     layout="responsive"
-                     className={imageMarginY}
-                      />
-
-
-                      <Image
-                      src="/Media/Images/Portfolio/UI Design/Water-FULLscreen1.jpg"
-                      width={500}
-                      height={500}
-                      alt=""
-                      layout="responsive"
-                      className={imageMarginY}
-                       />
-
-
-                       <Image
-                       src="/Media/Images/Portfolio/UI Design/Water-FULLscreen2.jpg"
-                       width={500}
-                       height={500}
-                       alt=""
-                       layout="responsive"
-                       className={imageMarginY}
-                        />
-
-
-                        <Image
-                        src="/Media/Images/Portfolio/UI Design/Water-FULLscreen3.jpg"
-                        width={500}
-                        height={500}
-                        alt=""
-                        layout="responsive"
-                        className={imageMarginY}
-                         />
-
-
-                         <Image
-                         src="/Media/Images/Portfolio/UI Design/Water-FULLscreen4.jpg"
-                         width={500}
-                         height={500}
-                         alt=""
-                         layout="responsive"
-                         className={imageMarginY}
-                          />
-
-
-                          <Image
-                          src="/Media/Images/Portfolio/UI Design/Water-Mobile-screens.jpg"
-                          width={500}
-                          height={500}
-                          alt=""
-                          layout="responsive"
-                          className={imageMarginY}
-                           />
-
-
-                           <Image
-                           src="/Media/Images/Portfolio/UI Design/Laceys-Mobile-Screens.jpg"
-                           width={500}
-                           height={500}
-                           alt=""
-                           layout="responsive"
-                           className={imageMarginY}
-                            />
-
-
-
-                            <Image
-                            src="/Media/Images/Portfolio/UI Design/Naphill Tennis Club Mobiel Screens.jpg"
-                            width={500}
-                            height={500}
-                            alt=""
-                            layout="responsive"
-                            className={imageMarginY}
-                             />
 
 
 
