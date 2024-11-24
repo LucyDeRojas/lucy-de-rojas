@@ -83,7 +83,9 @@
 
 
 
-
+* {
+        box-sizing: border-box;
+}
 
 
 
@@ -110,7 +112,7 @@ h1 {
 
 
 #menu {
-        background-color: red;
+        /* background-color: red; */
         /* transition: all 1000ms; */
 }
 

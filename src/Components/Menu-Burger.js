@@ -14,47 +14,89 @@ export default function MenuBurger () {
                 console.clear();
         console.log("Clicked!");
 
-        let circles = document.getElementById("circles");
-        let ruler = document.getElementById("ruler");
-        let pencil = document.getElementById("pencil");
-        let whiteLine = document.getElementById("whiteLine");
-        let menu = document.getElementById("menu");
 
 
 
 
         if(!open) {
                 setOpen(!open);
-                circles.style.opacity = 1;
-                ruler.style.transform = "rotate(45deg)";
-                pencil.style.transform = "rotate(-45deg)";
-                whiteLine.style.transform = "rotate(0deg)";
+
+
+
+		anime({
+			targets: "#circles",
+			opacity: 1,
+			duration: 1000,
+		});
+
+
+		anime({
+			targets: "#pencil",
+			rotate: -45,
+			duration: 50,
+		});
+
+
+		anime({
+			targets:"#whiteLine",
+			rotate: 0,
+			duration: 50
+		});
+
+
+		anime({
+			targets:"#ruler",
+			rotate: 45,
+			duration: 50,
+		});
+
 
 
 		anime({
 			targets: "#menu",
 			left:0,
-			easing: "spring(1,80,10,0)",
-			duration: 3000,
+			duration: 4500,
 		});
-                // menu.style.left = "0";
         }
         else {
-                setOpen(!open);
-                circles.style.opacity = 0;
-                ruler.style.transform = "rotate(0deg)";
-                pencil.style.transform = "rotate(0deg)";
-                whiteLine.style.transform = "rotate(90deg)";
+		setOpen(!open);
+		anime({
+			targets: "#circles",
+			opacity: 0,
+			duration: 1000,
+		});
+
 
 
 
 		anime({
-			targets: "#menu",
-			left: "-100%",
-			easing: "spring(1,80,10,0)",
-			duration: 3000,
+			targets: "#pencil",
+			rotate: 0,
+			duration: 50,
 		});
-                // menu.style.left = "-100%";
+
+
+
+
+		anime({
+			targets: "#whiteLine",
+			rotate: 90,
+			duration: 50,
+		});
+
+
+		anime({
+			targets: "#ruler",
+			rotate: 0,
+			duration: 50,
+		});
+
+
+		anime({
+			targets: "#menu",
+			left: "-110%",
+			duration: 4500,
+		});
         }
 
 

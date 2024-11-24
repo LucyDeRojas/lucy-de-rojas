@@ -23,7 +23,6 @@ return (<Layout>
 
 
 
-<h2>Video:</h2>
 
 
 

@@ -25,7 +25,7 @@ export default function TopHeader() {
                 <MenuBurger />
                 <Menu />
 
-                <Ldr  />
+                {/* <Ldr  /> */}
                 <Logo />
 
 
