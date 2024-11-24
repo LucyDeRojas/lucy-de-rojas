@@ -12,6 +12,9 @@ import Layout from "@/Components/Layout";
 export default function UI () {
 
 
+        let imageMarginY = "my-14 shadow-2xl rounded-xl";
+
+
 
 
 
@@ -37,6 +40,7 @@ From concept to completion, my work is driven by creativity, collaboration, and 
                         height={500}
                         layout="responsive"
                         alt="image of prototyping Chanelle Website"
+                        className={imageMarginY}
 
                         />
 
@@ -46,6 +50,7 @@ From concept to completion, my work is driven by creativity, collaboration, and 
               height={500}
               alt=""
               layout="responsive"
+              className={imageMarginY}
                />
 
 
@@ -56,6 +61,7 @@ From concept to completion, my work is driven by creativity, collaboration, and 
                height={500}
                alt=""
                layout="responsive"
+               className={imageMarginY}
                />
                </div>
 
@@ -66,6 +72,7 @@ From concept to completion, my work is driven by creativity, collaboration, and 
                 height={500}
                 alt=""
                 layout="responsive"
+                className={imageMarginY}
                  />
 
 
@@ -76,6 +83,7 @@ From concept to completion, my work is driven by creativity, collaboration, and 
                  height={500}
                  alt=""
                  layout="responsive"
+                 className={imageMarginY}
                   />
 
 
@@ -87,6 +95,7 @@ From concept to completion, my work is driven by creativity, collaboration, and 
                    height={500}
                    alt=""
                    layout="responsive"
+                   className={imageMarginY}
                     />
 
 
@@ -99,6 +108,7 @@ From concept to completion, my work is driven by creativity, collaboration, and 
                      height={500}
                      alt=""
                      layout="responsive"
+                     className={imageMarginY}
                       />
 
 
@@ -108,6 +118,7 @@ From concept to completion, my work is driven by creativity, collaboration, and 
                 height={500}
                 alt=""
                 layout="responsive"
+                className={imageMarginY}
                  />
 
 
@@ -117,6 +128,7 @@ From concept to completion, my work is driven by creativity, collaboration, and 
                  height={500}
                  alt=""
                  layout="responsive"
+                 className={imageMarginY}
                   />
 
 
@@ -127,6 +139,7 @@ From concept to completion, my work is driven by creativity, collaboration, and 
                     height={500}
                     alt=""
                     layout="responsive"
+                    className={imageMarginY}
                      />
 
 
@@ -136,6 +149,7 @@ From concept to completion, my work is driven by creativity, collaboration, and 
                      height={500}
                      alt=""
                      layout="responsive"
+                     className={imageMarginY}
                       />
 
 
@@ -145,6 +159,7 @@ From concept to completion, my work is driven by creativity, collaboration, and 
                       height={500}
                       alt=""
                       layout="responsive"
+                      className={imageMarginY}
                        />
 
 
@@ -154,6 +169,7 @@ From concept to completion, my work is driven by creativity, collaboration, and 
                        height={500}
                        alt=""
                        layout="responsive"
+                       className={imageMarginY}
                         />
 
 
@@ -163,6 +179,7 @@ From concept to completion, my work is driven by creativity, collaboration, and 
                         height={500}
                         alt=""
                         layout="responsive"
+                        className={imageMarginY}
                          />
 
 
@@ -172,6 +189,7 @@ From concept to completion, my work is driven by creativity, collaboration, and 
                          height={500}
                          alt=""
                          layout="responsive"
+                         className={imageMarginY}
                           />
 
 
@@ -181,6 +199,7 @@ From concept to completion, my work is driven by creativity, collaboration, and 
                           height={500}
                           alt=""
                           layout="responsive"
+                          className={imageMarginY}
                            />
 
 
@@ -190,6 +209,7 @@ From concept to completion, my work is driven by creativity, collaboration, and 
                            height={500}
                            alt=""
                            layout="responsive"
+                           className={imageMarginY}
                             />
 
 
@@ -200,6 +220,7 @@ From concept to completion, my work is driven by creativity, collaboration, and 
                             height={500}
                             alt=""
                             layout="responsive"
+                            className={imageMarginY}
                              />
 
 
