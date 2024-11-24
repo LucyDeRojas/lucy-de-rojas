@@ -1,4 +1,7 @@
 import { useState } from "react";
+import anime from "animejs";
+
+
 
 
 export default function MenuBurger () {

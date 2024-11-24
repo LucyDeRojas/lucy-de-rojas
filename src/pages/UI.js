@@ -90,13 +90,7 @@ From concept to completion, my work is driven by creativity, collaboration, and 
                     />
 
 
-                    <Image
-                    src="/Media/Images/Portfolio/UI Design/Lacey-mobile-Home-page.jpg"
-                    width={500}
-                    height={500}
-                    alt=""
-                    layout="responsive"
-                     />
+
 
 
                      <Image
