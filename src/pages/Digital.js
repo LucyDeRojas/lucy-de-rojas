@@ -44,6 +44,18 @@ Explore my work to see how creativity meets strategy in projects that drive resu
 
 
 <Image
+src="/Media/Images/Portfolio/Digital Design/AnimatedGifs/ScannAppealLogo.gif"
+width={500}
+height={500}
+alt=""
+layout="responsive"
+className={imageStyling}
+ />
+
+
+
+
+<Image
 src="/Media/Images/Portfolio/Digital Design/AnimatedGifs/F1TrySomething.gif"
 width={500}
 height={500}
@@ -52,15 +64,6 @@ layout="responsive"
 className={imageStyling} />
 
 
-
-<Image
-src="/Media/Images/Portfolio/Digital Design/AnimatedGifs/ScannAppealLogo.gif"
-width={500}
-height={500}
-alt=""
-layout="responsive"
-className={imageStyling}
- />
 
 
 
