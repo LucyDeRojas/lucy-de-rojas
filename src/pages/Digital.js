@@ -34,13 +34,13 @@ Explore my work to see how creativity meets strategy in projects that drive resu
 </p>
 
 
-<h2 className="bg-green-400 py-5 text-center my-7 rounded-full col-span-1 md:col-span-2 lg:col-span-3">Animated Gifs:</h2>
+<h2 className="bg-green-400 py-5 text-center my-7 rounded-full col-span-1 md:col-span-2 lg:col-span-3 xl:col-span-4">Animated Gifs:</h2>
 
 
 
 
 {/* images wrapper: */}
-<div className="grid grid-cols-1 md:grid-cols-2  lg:grid-cols-3 gap-0 md:gap-10 lg:gap-20 items-center">
+<div className="grid grid-cols-1 md:grid-cols-2  lg:grid-cols-3 xl:grid-cols-4 gap-0 md:gap-10 lg:gap-20 items-center">
 
 
 <Image
@@ -118,7 +118,7 @@ className={imageStyling}
 
 
 
-<h2 className="bg-green-400 py-5 text-center my-7 rounded-full  col-span-1 md:col-span-2 lg:col-span-3">Static Designs:</h2>
+<h2 className="bg-green-400 py-5 text-center my-7 rounded-full  col-span-1 md:col-span-2 lg:col-span-3 xl:col-span-4">Static Designs:</h2>
 
 <Image
 src="/Media/Images/Portfolio/Digital Design/Email-Signature-Image-CSSC-Awards-2016.jpg"
