@@ -11,7 +11,7 @@ import Layout from "@/Components/Layout";
 export default function Video () {
 
 
-        let videoItemWrapper = "flex flex-col items-center xl:flex-row p-5 border-2 border-red-200 rounded-2xl border-dashed text-center xl:text-left justify-between";
+        let videoItemWrapper = "flex flex-col items-center xl:flex-row p-5 border-2 border-red-200 rounded-2xl border-dashed text-center xl:text-left justify-between w-full";
 
         let paragraphSpacing = "py-5";
 
