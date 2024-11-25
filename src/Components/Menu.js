@@ -8,7 +8,7 @@ export default function Menu () {
 
 
 
-return (<div className="flex flex-col items-center w-full bg-white text-slate-800 font-bold absolute left-[-100%] top-[130px]" id="menu">
+return (<div className="flex flex-col items-center w-full bg-white text-slate-800 font-bold absolute left-[-100%] top-[130px] z-10" id="menu">
 
 
 

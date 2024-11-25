@@ -18,7 +18,7 @@ export default function Digital () {
 
 
 
-return (<Layout >
+return (<Layout>
 <h1>Digital Design</h1>
 <main className="p-14">
 
