@@ -15,6 +15,9 @@ export default function Print () {
         let imagesWrapper = "w-full md:w-1/2 flex flex-col xl:w-1/2 xl:flex-row  bg-white p-5 rounded-2xl gap-5 drop-shadow-2xl my-8 items-center text-center border-2 border-red-200 rounded-2xl border-dashed ";
 
 
+        let buttonStyling = "xl:absolute bottom-3 text-center bg-red-400 right-0 xl:w-1/3 p-5 rounded-full mx-5 text-white font-bold";
+
+
 
 
 
@@ -66,8 +69,11 @@ height={500}
 alt=""
 layout="responsive"
 />
-hello
+
 </div>
+
+<Link className={buttonStyling} href="https://docs.google.com/presentation/d/e/2PACX-1vQbHQLPVrJuHWZY_8liKO2qj28VBJ-u8LriftaVY3IJ6NM_gESfK8BXQH1CAMhMHTngcqU-mlYUUkrB/pub?start=false&loop=false&delayms=3000
+" target="_blank">See full publication</Link>
 
 </div>
 
@@ -97,7 +103,8 @@ alt=""
 layout="responsive"
 />
 </div>
-
+<Link className={buttonStyling} href="https://docs.google.com/presentation/d/e/2PACX-1vQ7Zgeu9DGQwi3JBAPh0ugG0p5TjuIyV4OM4X6pIcaMlMKO99CRSB4iw5MbU-ACH74KTyqBAwGm187o/pub?start=false&loop=false&delayms=3000
+" target="_blank">See full publication</Link>
 </div>
 
 
@@ -125,7 +132,8 @@ layout="responsive"
          alt=""
          layout="responsive"
          />
-         </div>
+         </div><Link className={buttonStyling} href="https://docs.google.com/presentation/d/e/2PACX-1vTgkQqHXVBNAovFdlXVujPaEcyTr1MP1kQ_nUxBRwoa3Oom-1YPtTOXmcbIanA5G7AKpNpGZf59RAOW/pub?start=false&loop=false&delayms=3000
+" target="_blank">See full publication</Link>
 </div>
 
 
@@ -147,7 +155,7 @@ layout="responsive"
         />
         </div>
 
-
+        <Link className={buttonStyling} href="" target="_blank">See full publication</Link>
 
 <div>
          <Image
@@ -157,7 +165,8 @@ layout="responsive"
          alt=""
          layout="responsive"
          />
-         </div>
+         </div><Link className={buttonStyling} href="https://docs.google.com/presentation/d/e/2PACX-1vT2AwswOIeZ-nHLeRtvhMFtOD7h0zBkpL0yD3I3BwLpmRlfEOztyyQloY8m_NCbeT_SHXA9_tJzpLrN/pub?start=false&loop=false&delayms=3000
+" target="_blank">See full publication</Link>
 </div>
 
 
@@ -190,7 +199,8 @@ layout="responsive"
 />
 </div>
 
-
+<Link className={buttonStyling} href="https://docs.google.com/presentation/d/e/2PACX-1vSRPEgIZpzQNJUAEnvzyeaWZxSc3K3YysFkdDt_Is3Iul3Lq0AjWNhbB6E1Pw4x_gxfyP0N2kHY5YRA/pub?start=false&loop=false&delayms=3000
+" target="_blank">See full publication</Link>
 </div>
 
 
@@ -225,7 +235,8 @@ layout="responsive"
 />
 </div>
 
-
+<Link className={buttonStyling} href="https://docs.google.com/presentation/d/e/2PACX-1vSEaes8rv-Qdu4HPXzfKYjEptF7MBtdlHEFq6hBwUWL5z2cBp-z9_e-2uQ_O-JsvweMwo3SbjIUWJCT/pub?start=false&loop=false&delayms=3000
+" target="_blank">See full publication</Link>
 </div>
 
 
@@ -259,7 +270,8 @@ alt=""
 layout="responsive"
 />
 </div>
-
+<Link className={buttonStyling} href="https://docs.google.com/presentation/d/e/2PACX-1vT5EMFypnqnUhNIyfcWOyHUqYP22DsaMVHDS6dr-nMsNEhddJqZPl0_MBuiqJGklg332utYMeKC26Am/pub?start=false&loop=false&delayms=3000
+" target="_blank">See full publication</Link>
 </div>
 
 
@@ -292,7 +304,8 @@ layout="responsive"
 </div>
 
 
-
+<Link className={buttonStyling} href="https://docs.google.com/presentation/d/e/2PACX-1vRPfX8mMuitSRHkgrkfTqiY-2L5bg7EZkOuRwVj2FfEpTCPTDC5ZcsTlnmMp5S1z3_dw1WYuP7BYbnw/pub?start=false&loop=false&delayms=3000
+" target="_blank">See full publication</Link>
 
 </div>
 
@@ -325,7 +338,8 @@ layout="responsive"
 />
 </div>
 
-
+<Link className={buttonStyling} href="https://docs.google.com/presentation/d/e/2PACX-1vQ5zNbF-xaAidcDQj5S7Y125eMwinbibPGJlsl6VrMHgC9OtT45ABlCBCbLMgy6XFSP7b6cUNoRFweb/pub?start=false&loop=false&delayms=3000
+" target="_blank">See full publication</Link>
 </div>
 
 
@@ -358,7 +372,8 @@ layout="responsive"
 />
 </div>
 
-
+<Link className={buttonStyling} href="https://docs.google.com/presentation/d/e/2PACX-1vTCeC_EnUugvciceFfV-ZtgZ-krTdECgYCj1ICtluW12rfKBAbrnN3aJguIx6jPogDIvxIhv7T1OCl7/pub?start=false&loop=false&delayms=3000
+" target="_blank">See full publication</Link>
 
 </div>
 
