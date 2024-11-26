@@ -28,9 +28,9 @@ return (<Layout>
         </Head>
 
 <h1>Print Design</h1>
-<main className="px-14">
+<main className="px-14 flex flex-col items-center">
 
-<p>
+<p className="w-full md:w-3/4 xl:w-1/2">
 
 
 Welcome to my print portfolio, a curated collection of my journey as a graphic designer. With over 20 years of experience crafting impactful designs across diverse mediums, I take pride in transforming ideas into visually compelling narratives. From elegant brochures to bold promotional materials, my work reflects a passion for creativity, precision, and storytelling. Each piece showcases not only technical skill but a commitment to delivering designs that resonate with audiences and elevate brands.
