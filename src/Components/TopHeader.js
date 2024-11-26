@@ -19,7 +19,7 @@ export default function TopHeader() {
 
 
 
-        return (<div className="flex w-full items-center justify-between">
+        return (<div className="flex w-full items-center justify-between sticky top-0 z-10">
 
 
                 <MenuBurger />
