@@ -1,7 +1,6 @@
 
 import TopHeader from "./TopHeader";
 import Head from "next/head";
-import Script from "next/script";
 
 
 

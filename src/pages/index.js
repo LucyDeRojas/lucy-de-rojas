@@ -20,12 +20,12 @@ export default function Home() {
     </Head>
 
 
-<main className= "px-14">
+<main className= "px-14 flex flex-col items-center">
     <h1>Welcome! </h1>
 
 
 
-    <p>My name is Lucy de Rojas and I’m UI, UX, digital & graphic designer.
+    <p className="w-full md:w-3/4 xl:w-1/2">My name is Lucy de Rojas and I’m UI, UX, digital & graphic designer.
 
 
 
