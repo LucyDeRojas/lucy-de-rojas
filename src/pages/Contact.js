@@ -20,6 +20,10 @@ export default function Contact () {
 
 
 
+        let pinkButton = "bg-pink-300 w-3/4 text-center py-3 my-3 rounded-full shadow-2xl";
+
+
+
 
 
 
@@ -39,9 +43,9 @@ return (<Layout>
 
 <br />
 
-<a href={"tel:" + phoneNumber} className="bg-pink-300 w-3/4 text-center py-10 my-3 rounded-full shadow-2xl">Call (UK)</a>
-<a href={"sms:" + phoneNumber} className="bg-pink-300 w-3/4 text-center py-10 my-3 rounded-full shadow-2xl">Send Text Message (UK)</a>
-<a href={"mailto:" + email} className="bg-pink-300 w-3/4 text-center py-10 my-3 rounded-full shadow-2xl">Send Email</a>
+<a href={"tel:" + phoneNumber} className={pinkButton}>Call (UK)</a>
+<a href={"sms:" + phoneNumber} className={pinkButton}>Send Text Message (UK)</a>
+<a href={"mailto:" + email} className={pinkButton}>Send Email </a>
 
 </main>
 

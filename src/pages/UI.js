@@ -12,8 +12,11 @@ import Layout from "@/Components/Layout";
 export default function UI () {
 
 
-        let imageMarginY = "my-14 shadow-2xl rounded-xl";
-        let linkToPrototypesStyle = "p-5 my-5 rounded-xl bg-red-200 text-center";
+        let imageMarginY = "my-14 drop-shadow-2xl rounded-xl";
+        let linkToPrototypesStyle = "p-5 my-5 rounded-xl bg-red-200 text-center w-full md:w-3/4 xl:w-1/2 drop-shadow-2xl";
+        let boxStyle = "w-full md:w-3/4 xl:w-1/2 drop-shadow-2xl"
+
+
         let mobilePrototypeText = "Click this box to see mobile 📱 prototype.";
         let desktopPrototypeText = "Click this box to see desktop 💻 prototype.";
 
@@ -28,7 +31,7 @@ return (<Layout>
 
 <main className="px-14 pb-14 flex flex-col items-center">
 
-<p>
+<p className="w-full md:w-3/4 xl:w-1/2">
 I’m a passionate web designer dedicated to crafting beautiful, functional, and user-centered digital experiences. With expertise in responsive design, accessible interfaces, and innovative problem-solving, I transform ideas into engaging online solutions that meet user needs and business goals.
 <br />
 <br />
@@ -119,7 +122,7 @@ https://www.figma.com/proto/MmmDVxYW4T9L5TNRozYH62/CSSC-Centenary?node-id=0-1&no
                         </Link>
 
 
-
+<div className={boxStyle}>
                        <Image
                        src="/Media/Images/Portfolio/UI Design/Water-FULLscreen2.jpg"
                        width={500}
@@ -127,10 +130,12 @@ https://www.figma.com/proto/MmmDVxYW4T9L5TNRozYH62/CSSC-Centenary?node-id=0-1&no
                        alt=""
                        layout="responsive"
                        className={imageMarginY}
-                        />
+                       />
+                       </div>
 
 
 
+<div className={boxStyle}>
 <Image
                      src="/Media/Images/Portfolio/UI Design/Water-desktop-and-mobile-homepage.jpg"
                      width={500}
@@ -138,7 +143,7 @@ https://www.figma.com/proto/MmmDVxYW4T9L5TNRozYH62/CSSC-Centenary?node-id=0-1&no
                      alt=""
                      layout="responsive"
                      className={imageMarginY}
-                      />
+                      /></div>
 
 <Link href="https://www.figma.com/proto/Fvo2PU4HmlT58ajRuWibrt/Water-Bottling-Aqua-Quacamaya?node-id=555-378&node-type=canvas&viewport=548%2C371%2C0.02&t=RmMHJiDfE8M0CXpL-0&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=564%3A22&show-proto-sidebar=1" target="_blank" className={linkToPrototypesStyle}>
 <Image
@@ -154,7 +159,7 @@ https://www.figma.com/proto/MmmDVxYW4T9L5TNRozYH62/CSSC-Centenary?node-id=0-1&no
 
 
 
-
+                          <div className={boxStyle}>
                          <Image
                          src="/Media/Images/Portfolio/UI Design/Water-FULLscreen4.jpg"
                          width={500}
@@ -162,7 +167,13 @@ https://www.figma.com/proto/MmmDVxYW4T9L5TNRozYH62/CSSC-Centenary?node-id=0-1&no
                          alt=""
                          layout="responsive"
                          className={imageMarginY}
-                          />
+                          /></div>
+
+
+
+
+
+<div className={boxStyle}>
 
 <Image
                       src="/Media/Images/Portfolio/UI Design/Water-FULLscreen1.jpg"
@@ -171,7 +182,8 @@ https://www.figma.com/proto/MmmDVxYW4T9L5TNRozYH62/CSSC-Centenary?node-id=0-1&no
                       alt=""
                       layout="responsive"
                       className={imageMarginY}
-                       />
+                      />
+                      </div>
 
 
 
@@ -205,6 +217,11 @@ https://www.figma.com/proto/MmmDVxYW4T9L5TNRozYH62/CSSC-Centenary?node-id=0-1&no
                            </Link>
 
 
+
+
+
+
+                           <div className={boxStyle}>
 <Image
                      src="/Media/Images/Portfolio/UI Design/Laceys-Entire-Screen.jpg"
                      width={500}
@@ -212,7 +229,7 @@ https://www.figma.com/proto/MmmDVxYW4T9L5TNRozYH62/CSSC-Centenary?node-id=0-1&no
                      alt=""
                      layout="responsive"
                      className={imageMarginY}
-                      />
+                      /></div>
 
 
 
@@ -271,6 +288,7 @@ https://www.figma.com/proto/MmmDVxYW4T9L5TNRozYH62/CSSC-Centenary?node-id=0-1&no
 
                             </Link>
 
+                            <div className={boxStyle}>
                 <Image
                 src="/Media/Images/Portfolio/UI Design/Naphill-Desktop-contact-us.jpg"
                 width={500}
@@ -278,8 +296,10 @@ https://www.figma.com/proto/MmmDVxYW4T9L5TNRozYH62/CSSC-Centenary?node-id=0-1&no
                 alt=""
                 layout="responsive"
                 className={imageMarginY}
-                 />
+                 /></div>
 
+
+<div className={boxStyle}>
 
                     <Image
                     src="/Media/Images/Portfolio/UI Design/Naphill-Tennis-Club.jpg"
@@ -288,7 +308,8 @@ https://www.figma.com/proto/MmmDVxYW4T9L5TNRozYH62/CSSC-Centenary?node-id=0-1&no
                     alt=""
                     layout="responsive"
                     className={imageMarginY}
-                     />
+                    />
+                    </div>
 
 
 
@@ -311,7 +332,7 @@ https://www.figma.com/proto/MmmDVxYW4T9L5TNRozYH62/CSSC-Centenary?node-id=0-1&no
 
 
 
-<Link href="https://www.figma.com/proto/MmmDVxYW4T9L5TNRozYH62/CSSC-Centenary?node-id=0-1&node-type=canvas&viewport=-3%2C68%2C0.15&t=v0pajn9PQOmTNVeq-0&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=28%3A346&show-proto-sidebar=1" target="_blank" className="p-5 my-5 rounded-xl bg-red-200 text-center w-full flex flex-col items-center">
+<Link href="https://www.figma.com/proto/MmmDVxYW4T9L5TNRozYH62/CSSC-Centenary?node-id=0-1&node-type=canvas&viewport=-3%2C68%2C0.15&t=v0pajn9PQOmTNVeq-0&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=28%3A346&show-proto-sidebar=1" target="_blank" className={linkToPrototypesStyle}>
 <div className="w-1/3">
                <Image
                src="/Media/Images/Portfolio/UI Design/CSSC1.jpg"
@@ -329,6 +350,7 @@ https://www.figma.com/proto/MmmDVxYW4T9L5TNRozYH62/CSSC-Centenary?node-id=0-1&no
 
 
 
+               <div className={boxStyle}>
                  <Image
                  src="/Media/Images/Portfolio/UI Design/CSSC3.jpg"
                  width={500}
@@ -336,7 +358,7 @@ https://www.figma.com/proto/MmmDVxYW4T9L5TNRozYH62/CSSC-Centenary?node-id=0-1&no
                  alt=""
                  layout="responsive"
                  className={imageMarginY}
-                  />
+                  /></div>
 
 
 
