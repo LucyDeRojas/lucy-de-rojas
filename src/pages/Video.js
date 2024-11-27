@@ -56,7 +56,7 @@ Website, social media. </p>
 
 
 
-<video src="/Media/Images/Portfolio/Video/ScannAppeal Christmas Carols 2023.mp4" width="100%" height="auto" type="video/mp4"controls className={videoItem}></video>
+<video src="/Media/Images/Portfolio/Video/VidoesWithFirstFrame/ScannAppeal Christmas Carols 2023.mp4" width="100%" height="auto" type="video/mp4"controls className={videoItem}></video>
 </div>
 
 
@@ -83,7 +83,7 @@ Website, social media.
 
 
 
-<video src="/Media/Images/Portfolio/Video/Elite movie night 2023 FINAL-OutdoorCinema2.mp4" width="100%" height="auto" type="video/mp4"controls className={videoItem}></video>
+<video src="/Media/Images/Portfolio/Video/VidoesWithFirstFrame/Elite movie night 2023 FINAL-OutdoorCinema2.mp4.mp4" width="100%" height="auto" type="video/mp4"controls className={videoItem}></video>
 </div>
 
 
@@ -104,7 +104,7 @@ Usage:<br />
 Website, social media.
 </p>
 
-<video src="/Media/Images/Portfolio/Video/Kophill  Climb.mp4" width="100%" height="auto" type="video/mp4"controls className={videoItem}></video>
+<video src="/Media/Images/Portfolio/Video/VidoesWithFirstFrame/Kophill  Climb.jpg.mp4" width="100%" height="auto" type="video/mp4"controls className={videoItem}></video>
 </div>
 
 
@@ -128,7 +128,7 @@ Usage:<br />
 Social media
 </p>
 
-<video src="/Media/Images/Portfolio/Video/Mario.mp4" width="100%" height="auto" type="video/mp4"controls className={videoItem}></video>
+<video src="/Media/Images/Portfolio/Video/VidoesWithFirstFrame/Mario.mp4" width="100%" height="auto" type="video/mp4"controls className={videoItem}></video>
 </div>
 
 
@@ -152,7 +152,7 @@ Video editing, motion graphics, visual effects, music sourcing. <br />
 Usage:<br />
 </b>
 Website, social media.</p>
-<video src="/Media/Images/Portfolio/Video/What Is Graphic Design.mp4" width="100%" height="auto" type="video/mp4"controls className={videoItem}></video>
+<video src="/Media/Images/Portfolio/Video/VidoesWithFirstFrame/What Is Graphic Design.jpg.mp4" width="100%" height="auto" type="video/mp4"controls className={videoItem}></video>
 </div>
 
 
@@ -200,7 +200,7 @@ Video editing, motion graphics, visual effects, music sourcing.<br />
 Usage:<br />
 </b>
 Social media.</p>
-<video src="/Media/Images/Portfolio/Video/GoKartingTaplow.mp4" width="100%" height="auto" type="video/mp4"controls className={videoItem}></video>
+<video src="/Media/Images/Portfolio/Video/VidoesWithFirstFrame/GoKartingTaplow.mp4" width="100%" height="auto" type="video/mp4"controls className={videoItem}></video>
 </div>
 
 
@@ -222,7 +222,7 @@ Video editing, motion graphics.<br />
 Usage:<br />
 </b>
 Private viewing.</p>
-<video src="/Media/Images/Portfolio/Video/StephieFame.mp4" width="100%" height="auto" type="video/mp4"controls className={videoItem}></video>
+<video src="/Media/Images/Portfolio/Video/VidoesWithFirstFrame/StephieFame.jpg.mp4" width="100%" height="auto" type="video/mp4"controls className={videoItem}></video>
 </div>
 
 
@@ -246,7 +246,7 @@ Usage:<br />
 
 </b>
 Website, social media, music sourcing.</p>
-<video src="/Media/Images/Portfolio/Video/InviteToTheGames.mp4" width="100%" height="auto" type="video/mp4"controls className={videoItem}></video>
+<video src="/Media/Images/Portfolio/Video/VidoesWithFirstFrame/InviteToTheGames.mp4" width="100%" height="auto" type="video/mp4"controls className={videoItem}></video>
 </div>
 
 
@@ -272,7 +272,7 @@ Motion graphics, video editing, visual effects, music sourcing, Illustrator.<br 
 Usage:<br />
 </b>
 Website, social media.</p>
-<video src="/Media/Images/Portfolio/Video/LewisCup.mp4" width="100%" height="auto" type="video/mp4"controls className={videoItem}></video>
+<video src="/Media/Images/Portfolio/Video/VidoesWithFirstFrame/LewisCup.mp4" width="100%" height="auto" type="video/mp4"controls className={videoItem}></video>
 </div>
 
 
@@ -296,7 +296,7 @@ Video recording, video editing, motion graphics, visual effects, music Sourcing<
 Usage:<br />
 </b>
 Website, social media.</p>
-<video src="/Media/Images/Portfolio/Video/ThankYouVolunteers.mp4" width="100%" height="auto" type="video/mp4"controls className={videoItem}></video>
+<video src="/Media/Images/Portfolio/Video/VidoesWithFirstFrame/ThankYouVolunteers.mp4" width="100%" height="auto" type="video/mp4"controls className={videoItem}></video>
 </div>
 
 
@@ -324,7 +324,7 @@ Usage:<br />
 
 </b>
 Website, social media.</p>
-<video src="/Media/Images/Portfolio/Video/Naphill Tennis Club - Tennis Ball Machine.mp4" width="100%" height="auto" type="video/mp4"controls className={videoItem}></video>
+<video src="/Media/Images/Portfolio/Video/VidoesWithFirstFrame/Naphill Tennis Club - Tennis Ball Machine.mp4" width="100%" height="auto" type="video/mp4"controls className={videoItem}></video>
 </div>
 
 
@@ -345,7 +345,7 @@ Video editing, motion graphics, visual effects, music sourcing.
 Usage:<br />
 </b>
 Website, social media.</p>
-<video src="/Media/Images/Portfolio/Video/NaphillTennisClub - SlowMotion.mp4" width="100%" height="auto" type="video/mp4"controls className={videoItem}></video>
+<video src="/Media/Images/Portfolio/Video/VidoesWithFirstFrame/NaphillTennisClub - SlowMotion.mp4" width="100%" height="auto" type="video/mp4"controls className={videoItem}></video>
 </div>
 
 
@@ -368,7 +368,7 @@ Video editing, motion graphics, visual effects, music sourcing.<br />
 Usage:<br />
 </b>
 Website, social media.</p>
-<video src="/Media/Images/Portfolio/Video/What Is Tennis.mp4" width="100%" height="auto" type="video/mp4"controls className={videoItem}></video>
+<video src="/Media/Images/Portfolio/Video/VidoesWithFirstFrame/What Is Tennis.jpg.mp4" width="100%" height="auto" type="video/mp4"controls className={videoItem}></video>
 </div>
 
 
@@ -392,7 +392,7 @@ Video editing, motion graphics, visual effects, music sourcing.<br />
 Usage:<br />
 </b>
 Website, social media.</p>
-<video src="/Media/Images/Portfolio/Video/Vandalism.mp4" width="100%" height="auto" type="video/mp4"controls className={videoItem}></video>
+<video src="/Media/Images/Portfolio/Video/VidoesWithFirstFrame/Vandalism.mp4" width="100%" height="auto" type="video/mp4"controls className={videoItem}></video>
 </div>
 
 
