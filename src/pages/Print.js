@@ -155,7 +155,6 @@ layout="responsive"
         />
         </div>
 
-        <Link className={buttonStyling} href="" target="_blank">See full publication</Link>
 
 <div>
          <Image
