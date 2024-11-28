@@ -3,6 +3,7 @@ import Link from "next/link";
 import Image from "next/image";
 
 import Layout from "@/Components/Layout";
+import BackToTopButton from "@/Components/backToTopButton";
 
 
 
@@ -21,6 +22,7 @@ export default function Video () {
 
 
 return (<Layout>
+        <BackToTopButton />
 <h1>Video Editing & <br />Motion Graphics</h1>
 
 <main className="px-14">

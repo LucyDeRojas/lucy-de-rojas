@@ -16,7 +16,7 @@ export default function Home() {
 
   return (<Layout>
     <Head>
-      <title>Welcome to Pages of Lucy de Rojas - Digital, Web and Print Designer, Plus Video Editor </title>
+      <title>Creative Multimedia Designer | UI, Video Editing, Print & Digital Design </title>
     </Head>
 
 

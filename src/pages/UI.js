@@ -6,6 +6,7 @@ import OneItem from "@/Components/oneItem";
 import ThreeItems from "@/Components/threeItems";
 
 import Layout from "@/Components/Layout";
+import BackToTopButton from "@/Components/backToTopButton";
 
 
 
@@ -27,6 +28,7 @@ export default function UI () {
 
 
 return (<Layout>
+        <BackToTopButton />
 <h1>UI / UX Design</h1>
 
 <main className="px-14 pb-14 flex flex-col items-center">
@@ -220,8 +222,7 @@ https://www.figma.com/proto/MmmDVxYW4T9L5TNRozYH62/CSSC-Centenary?node-id=0-1&no
 
 
 
-
-                           <div className={boxStyle}>
+<Link href="https://www.figma.com/design/pXc7s9wQgbpIMZBXDT6n1h/Laceys?node-id=129-6902&node-type=frame&t=fMZxqWoUW8eS0tmE-0" target="_blank" className={linkToPrototypesStyle}>
 <Image
                      src="/Media/Images/Portfolio/UI Design/Laceys-Entire-Screen.jpg"
                      width={500}
@@ -229,7 +230,10 @@ https://www.figma.com/proto/MmmDVxYW4T9L5TNRozYH62/CSSC-Centenary?node-id=0-1&no
                      alt=""
                      layout="responsive"
                      className={imageMarginY}
-                      /></div>
+                     />
+                     <p>Link to Figma file.</p>
+                     </Link>
+
 
 
 
@@ -299,7 +303,12 @@ https://www.figma.com/proto/MmmDVxYW4T9L5TNRozYH62/CSSC-Centenary?node-id=0-1&no
                  /></div>
 
 
-<div className={boxStyle}>
+
+
+
+
+
+<Link href="https://www.figma.com/design/tYvFzMtJQ7Mg36L9ZmXJAV/Naphill-Tennis-Club?node-id=0-1&node-type=canvas&t=nNFOPr1hB9Z2RMlk-0" target="_blank" className={linkToPrototypesStyle}>
 
                     <Image
                     src="/Media/Images/Portfolio/UI Design/Naphill-Tennis-Club.jpg"
@@ -309,7 +318,8 @@ https://www.figma.com/proto/MmmDVxYW4T9L5TNRozYH62/CSSC-Centenary?node-id=0-1&no
                     layout="responsive"
                     className={imageMarginY}
                     />
-                    </div>
+                    <p>Link to Figma file.</p>
+                    </Link>
 
 
 
@@ -332,9 +342,9 @@ https://www.figma.com/proto/MmmDVxYW4T9L5TNRozYH62/CSSC-Centenary?node-id=0-1&no
 
 
 
-<Link href="https://www.figma.com/proto/MmmDVxYW4T9L5TNRozYH62/CSSC-Centenary?node-id=0-1&node-type=canvas&viewport=-3%2C68%2C0.15&t=v0pajn9PQOmTNVeq-0&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=28%3A346&show-proto-sidebar=1" target="_blank" className={linkToPrototypesStyle}>
-<div className="w-1/3">
-               <Image
+<Link href="https://www.figma.com/proto/MmmDVxYW4T9L5TNRozYH62/CSSC-Centenary?node-id=0-1&node-type=canvas&viewport=-3%2C68%2C0.15&t=v0pajn9PQOmTNVeq-0&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=28%3A346&show-proto-sidebar=1" target="_blank" className="p-5 my-5 rounded-xl bg-red-200 text-center w-full md:w-3/4 xl:w-1/2 drop-shadow-2xl flex flex-col items-center">
+<div className="w-1/2">
+<Image
                src="/Media/Images/Portfolio/UI Design/CSSC1.jpg"
                width={500}
                height={500}
@@ -350,7 +360,7 @@ https://www.figma.com/proto/MmmDVxYW4T9L5TNRozYH62/CSSC-Centenary?node-id=0-1&no
 
 
 
-               <div className={boxStyle}>
+<Link href="https://www.figma.com/design/MmmDVxYW4T9L5TNRozYH62/CSSC-Centenary?node-id=0-1&node-type=canvas&t=uq0rT0iWNedoidcX-0" className={linkToPrototypesStyle} target="_blank">
                  <Image
                  src="/Media/Images/Portfolio/UI Design/CSSC3.jpg"
                  width={500}
@@ -358,7 +368,9 @@ https://www.figma.com/proto/MmmDVxYW4T9L5TNRozYH62/CSSC-Centenary?node-id=0-1&no
                  alt=""
                  layout="responsive"
                  className={imageMarginY}
-                  /></div>
+                 />
+                 <p>Link to Figma file.</p>
+                 </Link>
 
 
 

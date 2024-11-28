@@ -3,6 +3,7 @@ import Link from "next/link";
 import Image from "next/image";
 
 import Layout from "@/Components/Layout";
+import BackToTopButton from "@/Components/backToTopButton";
 
 
 
@@ -19,6 +20,7 @@ export default function Digital () {
 
 
 return (<Layout>
+  <BackToTopButton />
 <h1>Digital Design</h1>
 <main className="p-14">
 

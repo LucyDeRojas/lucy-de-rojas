@@ -3,6 +3,7 @@ import Link from "next/link";
 import Image from "next/image";
 
 import Layout from "@/Components/Layout";
+import BackToTopButton from "@/Components/backToTopButton";
 
 
 
@@ -23,6 +24,7 @@ export default function Print () {
 
 
 return (<Layout>
+        <BackToTopButton />
         <Head>
                 <title>Lucy de Rojas - Print Design</title>
         </Head>
